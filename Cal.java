@@ -4,7 +4,7 @@ public class Cal{
         System.out.println("Subtraction of 2 + 2 = ",sub(2,2));
     }
 
-    public static add(int a, int b){return a+b;}
+    public static int add(int a, int b){return a+b;}
 
-    public static sub(int a, int b) {return a-b;}
+    public static int sub(int a, int b) {return a-b;}
 }
